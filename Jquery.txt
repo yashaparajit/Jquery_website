@@ -1,0 +1,5 @@
+In this step we create four divs header, home, about and contact and add some sample data to every div.
+
+We also create a function called scrollto() which is used to scroll to particular div when user clicks 
+
+on a link in header we use jQuery animate() function to give a nice effect while website scroll to particular div.
